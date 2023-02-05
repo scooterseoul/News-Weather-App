@@ -22,7 +22,6 @@ function App() {
     <div className="app">
       <header>
         <p className="icons">NEWS &#9730; WEATHER </p>
-        {/* <p className="windyweather">&#9728;&#9730;&#9729;</p> */}
         <div
           className="email"
           onClick={() => (window.location = "mailto: scooterseoul@gmail.com")}
@@ -105,7 +104,6 @@ function App() {
       </div>
       <footer>
         <p className="alex">C. Alexander</p>
-        {/* <p className="windyweather">&#9728;&#9730;&#9729;</p> */}
         <div
           className="coffeeemail"
           onClick={() =>
