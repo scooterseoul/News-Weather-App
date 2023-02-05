@@ -1,9 +1,8 @@
 # News & Weather App
 
-# Weather and News app
 ![Screen Shot 2022-09-19 at 3 39 04 PM](https://user-images.githubusercontent.com/99179952/190972130-92562d7e-3fca-4984-81af-19c59459610b.png)
-![Screen Shot 2022-09-19 at 3 39 39 PM](https://user-images.githubusercontent.com/99179952/190972141-be5722dc-0a0a-4611-b1c2-cb64a4fc1838.png)
-/Users/user/Desktop/WEATHER_SECRET/publicWeather/fictional-winner/weather-news/src/components/Screen Shot 2023-02-05 at 7.31.41 PM.png
+![Desktop View](Screen Shot 2023-02-05 at 7.32.02 PM.png)
+
 ## About The Project
 
 
