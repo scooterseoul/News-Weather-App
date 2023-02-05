@@ -1,6 +1,8 @@
 # News & Weather App
+<div>
 <img src="https://user-images.githubusercontent.com/99179952/216814671-c70d18a5-0994-4dfd-b1f0-ec08dffb2f0a.png" width=20%>
-<img src="https://user-images.githubusercontent.com/99179952/216814677-9f5db43d-721b-449c-9c39-31c89cb8233f.png" width=20%>
+<img src="https://user-images.githubusercontent.com/99179952/216814677-9f5db43d-721b-449c-9c39-31c89cb8233f.png" width=50%></div>
+  
 ## About The Project
 
 
