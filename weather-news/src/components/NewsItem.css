@@ -1,0 +1,32 @@
+.news-img {
+  width: 70vw;
+  align-self: center;
+  /* border-radius: 0.7rem; */
+  margin-top: 1rem;
+}
+
+a {
+  color: rgb(69, 69, 74);
+  font-size: smaller;
+  text-decoration: none;
+}
+.descriptionnews {
+  color: black;
+  font-size: small;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+@media only screen and (min-width: 48rem) {
+  .news-img {
+    width: 35vw;
+    height: auto;
+    align-self: center;
+    border-radius: 0.7rem;
+  }
+  a {
+    font-size: 2rem;
+  }
+  .descriptionnews {
+    font-size: 1rem;
+  }
+}
