@@ -1,7 +1,6 @@
 # News & Weather App
-
-![Screen Shot 2022-09-19 at 3 39 04 PM](https://user-images.githubusercontent.com/99179952/190972130-92562d7e-3fca-4984-81af-19c59459610b.png)
-![Desktop View](Screen Shot 2023-02-05 at 7.32.02 PM.png)
+![Mobile View](https://user-images.githubusercontent.com/99179952/216814671-c70d18a5-0994-4dfd-b1f0-ec08dffb2f0a.png)
+![Desktop View](https://user-images.githubusercontent.com/99179952/216814677-9f5db43d-721b-449c-9c39-31c89cb8233f.png)
 
 ## About The Project
 
