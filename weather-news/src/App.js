@@ -53,12 +53,12 @@ function App() {
             {data.main ? (
               <h3>Min: {data.main.temp_min.toFixed()}°C</h3>
             ) : (
-              <h3>Min:20°C</h3>
+              <h3>Min: 20°C</h3>
             )}
             {data.main ? (
               <h3>Max: {data.main.temp_max.toFixed()}°C</h3>
             ) : (
-              <h3>Max:28°C</h3>
+              <h3>Max: 28°C</h3>
             )}
           </div>
         </div>
